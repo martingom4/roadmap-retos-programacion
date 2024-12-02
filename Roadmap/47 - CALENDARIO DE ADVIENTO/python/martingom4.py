@@ -48,4 +48,5 @@ def calendar_box(dias,filas,columnas):
 
 calendar_box(24,4,6)
 
-
+def slect_day():
+    
